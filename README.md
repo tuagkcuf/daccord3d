@@ -1,2 +1,2 @@
-# Daccord3D
-A site built with Next.js and Spline.
+# daccord3d
+A site built with React and Spline.
